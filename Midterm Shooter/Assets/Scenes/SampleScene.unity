@@ -135,7 +135,7 @@ GameObject:
   - component: {fileID: 152302892}
   - component: {fileID: 152302891}
   - component: {fileID: 152302890}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: P1 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -240,7 +240,7 @@ GameObject:
   - component: {fileID: 379200082}
   - component: {fileID: 379200081}
   - component: {fileID: 379200080}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: P1 (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -698,7 +698,7 @@ GameObject:
   - component: {fileID: 493306590}
   - component: {fileID: 493306589}
   - component: {fileID: 493306588}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: P1 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1008,7 +1008,7 @@ GameObject:
   - component: {fileID: 553796222}
   - component: {fileID: 553796221}
   - component: {fileID: 553796220}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: P1 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1205,7 +1205,7 @@ Transform:
   m_GameObject: {fileID: 641517779}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 5.45, y: 1.063, z: -25.4}
+  m_LocalPosition: {x: 5.45, y: 12, z: -25.4}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -1243,8 +1243,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _data:
     _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"MoveSpeed","value":{"$content":5.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
-      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Check
-      Floor","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Feet","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Gravity","value":{"x":0.0,"y":0.0,"z":0.0,"$type":"UnityEngine.Vector3"},"typeHandle":{"Identification":"UnityEngine.Vector3,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"RotateSpeed","value":{"$content":90.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"JumpHeight","value":{"$content":5.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
@@ -1751,7 +1750,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 759813716}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Raised Terrain Platform
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1790,7 +1789,7 @@ GameObject:
   - component: {fileID: 849007014}
   - component: {fileID: 849007013}
   - component: {fileID: 849007012}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: SandBox
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8502,7 +8501,7 @@ GameObject:
   - component: {fileID: 880221972}
   - component: {fileID: 880221971}
   - component: {fileID: 880221970}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: P1 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15387,7 +15386,7 @@ GameObject:
   - component: {fileID: 1271331349}
   - component: {fileID: 1271331348}
   - component: {fileID: 1271331347}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Arch 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16223,7 +16222,7 @@ GameObject:
   - component: {fileID: 1292343553}
   - component: {fileID: 1292343552}
   - component: {fileID: 1292343551}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: P1 (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16745,7 +16744,7 @@ GameObject:
   - component: {fileID: 1415641219}
   - component: {fileID: 1415641218}
   - component: {fileID: 1415641217}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: P1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16847,7 +16846,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1463112665}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tower Platforms
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16890,7 +16889,7 @@ GameObject:
   - component: {fileID: 1495256566}
   - component: {fileID: 1495256565}
   - component: {fileID: 1495256564}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: P1 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16995,7 +16994,7 @@ GameObject:
   - component: {fileID: 1502902628}
   - component: {fileID: 1502902627}
   - component: {fileID: 1502902626}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: P1 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17102,7 +17101,7 @@ GameObject:
   - component: {fileID: 1582064315}
   - component: {fileID: 1582064314}
   - component: {fileID: 1582064313}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tower Roof
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17307,7 +17306,7 @@ GameObject:
   - component: {fileID: 1613850267}
   - component: {fileID: 1613850266}
   - component: {fileID: 1613850265}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: P1 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17412,7 +17411,7 @@ GameObject:
   - component: {fileID: 1639330541}
   - component: {fileID: 1639330540}
   - component: {fileID: 1639330539}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: P1 (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17517,7 +17516,7 @@ GameObject:
   - component: {fileID: 1740793715}
   - component: {fileID: 1740793714}
   - component: {fileID: 1740793713}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: P1 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17789,7 +17788,7 @@ GameObject:
   - component: {fileID: 1874234914}
   - component: {fileID: 1874234913}
   - component: {fileID: 1874234912}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Slope
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18267,7 +18266,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2028070727}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: 'Terrain Elements '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18309,7 +18308,7 @@ GameObject:
   - component: {fileID: 2100856941}
   - component: {fileID: 2100856940}
   - component: {fileID: 2100856939}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Arch 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
