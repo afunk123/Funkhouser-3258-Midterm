@@ -385,7 +385,7 @@ GameObject:
   - component: {fileID: 246267793}
   - component: {fileID: 246267795}
   - component: {fileID: 246267794}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Patroller1 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9673,7 +9673,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 912675393}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Homers
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11198,7 +11198,7 @@ GameObject:
   - component: {fileID: 1190742360}
   - component: {fileID: 1190742362}
   - component: {fileID: 1190742361}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Homer 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19551,7 +19551,7 @@ GameObject:
   - component: {fileID: 1818884101}
   - component: {fileID: 1818884103}
   - component: {fileID: 1818884102}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Patroller1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20245,7 +20245,7 @@ GameObject:
   - component: {fileID: 2078484670}
   - component: {fileID: 2078484672}
   - component: {fileID: 2078484671}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Homer 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
