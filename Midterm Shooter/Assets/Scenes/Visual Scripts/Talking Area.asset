@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: Talking Area
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":442.9221,"y":273.483},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{},"position":{"x":-204.0,"y":-144.0},"guid":"2680b72e-29e2-420c-b5c9-c36754161fc3","$version":"A","$type":"Unity.VisualScripting.Start"},{"type":"System.String","value":{"$content":"That
+      Button is Suspicious! Try jumping on it.","$type":"System.String"},"defaultValues":{},"position":{"x":536.0,"y":331.0},"guid":"c8afa4a2-5ced-46d8-91db-10fe1a8d86bd","$version":"A","$type":"Unity.VisualScripting.Literal","$id":"11"},{"argumentCount":1,"defaultValues":{"name":{"$content":"Talk","$type":"System.String"},"target":null},"position":{"x":802.0,"y":138.0},"guid":"ebed0554-6af6-416d-b906-056a6ec41cbe","$version":"A","$type":"Unity.VisualScripting.TriggerCustomEvent","$id":"13"},{"chainable":false,"parameterNames":["name"],"member":{"name":"Find","parameterTypes":["System.String"],"targetType":"UnityEngine.GameObject","targetTypeName":"UnityEngine.GameObject","$version":"A"},"defaultValues":{"%name":{"$content":"Main
+      UI","$type":"System.String"}},"position":{"x":586.0,"y":140.0},"guid":"9b7d1267-9816-45ee-912d-68f1dc9b92a2","$version":"A","$type":"Unity.VisualScripting.InvokeMember","$id":"15"},{"chainable":false,"parameterNames":["key"],"member":{"name":"GetKeyDown","parameterTypes":["UnityEngine.KeyCode"],"targetType":"UnityEngine.Input","targetTypeName":"UnityEngine.Input","$version":"A"},"defaultValues":{"%key":{"$content":"X","$type":"UnityEngine.KeyCode"}},"position":{"x":-350.0,"y":121.0},"guid":"be6fddc6-afe0-47f4-8887-aad8928a2492","$version":"A","$type":"Unity.VisualScripting.InvokeMember","$id":"19"},{"defaultValues":{},"position":{"x":-107.0,"y":119.0},"guid":"0efc92cc-5597-42e2-9f60-2e54ba51b198","$version":"A","$type":"Unity.VisualScripting.If","$id":"23"},{"sourceUnit":{"$ref":"15"},"sourceKey":"exit","destinationUnit":{"$ref":"13"},"destinationKey":"enter","guid":"50251838-be1c-4be7-adf7-c1fa16fd94e9","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"19"},"sourceKey":"exit","destinationUnit":{"$ref":"23"},"destinationKey":"enter","guid":"dd0ae8be-6822-4725-ae58-69b4f773c1c9","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"23"},"sourceKey":"ifTrue","destinationUnit":{"$ref":"15"},"destinationKey":"enter","guid":"b536bd04-6c79-4dcf-a16c-7830cb5ea643","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"15"},"sourceKey":"result","destinationUnit":{"$ref":"13"},"destinationKey":"target","guid":"df855389-8a2f-4248-97e4-05172c667d88","$type":"Unity.VisualScripting.ValueConnection"},{"sourceUnit":{"$ref":"11"},"sourceKey":"output","destinationUnit":{"$ref":"13"},"destinationKey":"argument_0","guid":"da4b9096-bca0-4930-83c5-cb5ba6933f7d","$type":"Unity.VisualScripting.ValueConnection"},{"sourceUnit":{"$ref":"19"},"sourceKey":"result","destinationUnit":{"$ref":"23"},"destinationKey":"condition","guid":"b4c4d870-20a6-4e88-9f94-4d0c2a85f21c","$type":"Unity.VisualScripting.ValueConnection"}],"$version":"A"}}'
+    _objectReferences: []
